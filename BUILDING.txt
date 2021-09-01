@@ -102,3 +102,12 @@ the language variables before compiling:
 LC_ALL=C; export LC_ALL
 LANG=C; export LANG
 ./gradlew deb
+
+
+
+
+
+
+
+
+i want to change something
